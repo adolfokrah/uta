@@ -1,6 +1,6 @@
 # uta
 
-This projects demonstrate how to build a song recognination and downloading application with flutter.
+This projects demonstrate how to build a song recogniion and downloading application with flutter.
 Powered by ACR Cloud, Youtube and Y2Mate.
 
 ## Getting Started
