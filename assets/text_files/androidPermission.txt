@@ -1,0 +1,3 @@
+To ensure the correct functioning of this app Downloads, on Android 10 and 11, access to all Files permission might be needed, this will be temporal and not require on future updates. You can also apply this fix in Settings.
+
+app info -> permissions -> files and media / storage -> allow management of all files / allow
